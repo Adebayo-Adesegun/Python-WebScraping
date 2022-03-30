@@ -1,0 +1,16 @@
+*.pyc
+.idea
+.env
+.vscode
+/env/
+/Random_Sample_Data_Business/
+/Random_Sample_Data_Politics/
+/Random_Sample_Data_Sport/
+*.DS_Store
+/version.txt
+/VorteXplore/survey/static/dist
+.coverage
+node_modules
+/docker-compose.override.yml
+/docker-compose.override.yaml
+/.envrc
